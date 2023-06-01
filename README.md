@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aishani Mohapatra</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishani20&label=Profile%20views&color=0e75b6&style=flat" alt="aishani20" /> </p>
 
 -👋 Hi, I’m Aishani Mohapatra.
+- 👀 I’m interested in Data Science and Competitive Programming.
 - 🌱 I’m currently learning **DSA and Machine Learning**
 - 💞️ I’m looking to collaborate on Machine learning related projects.
 
