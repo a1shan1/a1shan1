@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aishani Mohapatra</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishani20&label=Profile%20views&color=0e75b6&style=flat" alt="aishani20" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@aishanimo25" target="blank"><img src="https://img.shields.io/twitter/follow/@aishanimo25?logo=twitter&style=for-the-badge" alt="@aishanimo25" /></a> </p>
 
 - 🌱 I’m currently learning **DSA and Machine Learning**
 
