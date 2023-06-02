@@ -44,6 +44,13 @@
 
 <br/>  
 
+## 👨🏻‍💻 Coding Profiles
+<p align = "left">
+<a href = "https://www.hackerrank.com/mohapatraaishan1?hr_r=1"><img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=oval-square&logo=HackerRank&logoColor=white"/></a>
+<a href = "https://leetcode.com/aishani20/"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=oval-square&logo=LeetCode&logoColor=white"/></a>
+<a href = "https://auth.geeksforgeeks.org/user/aishani20"><img src = "https://img.shields.io/badge/GeeksforGeeks-298D46?style=oval-square&logo=geeksforgeeks&logoColor=white"/></a>
+<a href = "https://www.codechef.com/users/a1shani"><img src = "https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white"/></a>
+</p><br>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aishani20&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
