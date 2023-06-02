@@ -50,4 +50,16 @@
 
 <br/>  
 
+<div align="center">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alamy.com%2Fstock-photo%2Fprogrammer-woman.html%3Fcutout%3D1&psig=AOvVaw3eCh0QCF-cnrMaT7YHPYb1&ust=1685799830172000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDd-fDbpP8CFQAAAAAdAAAAABAZ" align="center" style="width: 100%" />
+</div>  
+  
+
+  
+
+## Most Used Languages 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishani20&hide_border=true&layout=compact" align="center" /></div>  
+
+<br/>  
+
 
