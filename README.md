@@ -52,16 +52,14 @@
 <a href = "https://www.codechef.com/users/a1shani"><img src = "https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white"/></a>
 </p><br>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aishani20&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-   
+## 💻 GitHub Profile Stats
+<p align = "center">
+<a href = "https://github.com/aishani20">
+<img src = "https://github-readme-stats.vercel.app/api?username=aishani20&show_icons=true&count_private=true&locale=en&theme=midnight-purple&layout=compact" alt = "Aishani's Github Stats" height = 200px/></a>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aishani20&langs_count=15&layout=compact&locale=en&theme=midnight-purple" alt = "Languages Used" height = 200px/>
+<br><br>
 
-  
-## Most Used Languages 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishani20&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>  
 
 
