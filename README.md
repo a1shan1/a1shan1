@@ -1,10 +1,26 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishani20&label=Profile%20views&color=0e75b6&style=flat" alt="aishani20" /> </p>
+ <div align="center">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alamy.com%2Fstock-photo%2Fprogrammer-woman.html%3Fcutout%3D1&psig=AOvVaw3eCh0QCF-cnrMaT7YHPYb1&ust=1685799830172000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDd-fDbpP8CFQAAAAAdAAAAABAZ" align="center" style="width: 100%" />
+</div>  
   
+
+### <div align="center">👋 Hi, I’m Aishani Mohapatra, a Machine learning enthusiasts 👨‍💻 </div>  
   
--👋 Hi, I’m Aishani Mohapatra.
+
 - 👀 I’m interested in Data Science and Competitive Programming.
-- 🌱 I’m currently learning **DSA and Machine Learning**
-- 💞️ I’m looking to collaborate on Machine learning related projects.
+  
+  
+
+- 🌱 I’m currently learning Machine Learning.  
+  
+
+- 💞️ I’m looking to collaborate on Machine learning related projects.  
+  
+
+- 📫 Reach me at mohapatraaishani20@gmail.com  
+  
+
+<br/>  
 
 
 ## My Skill Set 
