@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">👋 Hi, I’m Aishani Mohapatra, a Machine learning enthusiasts 👨‍💻 </div>  
+### <div align="center">👋 Hi, I’m Aishani Mohapatra, a Machine Learning Enthusiast 👨‍💻 </div>  
   
 
 - 👀 I’m interested in Data Science and Competitive Programming.
