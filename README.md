@@ -36,7 +36,7 @@
 <a href="https://www.kaggle.com/https://www.kaggle.com/aishanimohapatra" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aishani-mohapatra-73485a211/" target="_blank">
+<a href="https://www.linkedin.com/in/aishani20/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 
